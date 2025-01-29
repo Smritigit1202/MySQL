@@ -1,0 +1,2 @@
+# MySQL
+MySQL Queries Repo
